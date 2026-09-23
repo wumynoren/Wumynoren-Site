@@ -1,0 +1,31 @@
+{
+  "title": { "EN": "OPERATIONS", "RU": "ОПЕРАЦИИ" },
+  "cjk": "計劃",
+  "tagline": { "EN": "GOALS, NOT A SHOP", "RU": "ЦЕЛИ, НЕ МАГАЗИН" },
+  "currency": "$",
+
+  "_help": "status: ACTIVE | HOLD | COMPLETE. raised/goal are numbers. The first item is also shown as the featured goal in SUPPORT.",
+
+  "items": [
+    { "code": "OP-01", "title": "TFR ARTBOOK", "sub": "printed + digital volume", "status": "ACTIVE", "raised": 1240, "goal": 4000, "url": "#",
+      "objective": { "EN": "A collected volume of The Fire Rises military anime. Print-ready hardcover with faction codex, process section, and unreleased sketches.",
+                     "RU": "Сборник военного аниме по The Fire Rises. Печатный хардкавер с кодексом фракций, разделом о процессе и неизданными скетчами." } },
+    { "code": "OP-02", "title": "EAST SEA CYCLE", "sub": "Taiwan Strait / night naval series", "status": "ACTIVE", "raised": 380, "goal": 1800, "url": "#",
+      "objective": { "EN": "Twelve original works: ROC frigates, coastal batteries, Taipei at dusk, amphibious staging. The Strait at the edge of history.",
+                     "RU": "Двенадцать оригинальных работ: фрегаты РК, береговые батареи, Тайбэй в сумерках, десантные плацдармы. Пролив на краю истории." } },
+    { "code": "OP-03", "title": "STUDIO RIG", "sub": "tablet / PC / print calibration", "status": "ACTIVE", "raised": 820, "goal": 2500, "url": "#",
+      "objective": { "EN": "Large-format tablet and a colour-calibrated print workstation. Unlocks print output and cuts render time.",
+                     "RU": "Большой планшет и откалиброванная станция для печати. Открывает печать и сокращает время рендера." } },
+    { "code": "OP-04", "title": "ARCHIVE", "sub": "high-res backup + site rebuild", "status": "HOLD", "raised": 200, "goal": 800, "url": "#",
+      "objective": { "EN": "Redundant off-site storage for all source files. Site rebuild with a private commission portal and subscriber archive.",
+                     "RU": "Резервное хранилище для всех исходников. Пересборка сайта с закрытым порталом заказов и архивом для подписчиков." } }
+  ],
+
+  "timeline": [
+    { "date": "2026 Q4", "label": { "EN": "TFR Artbook draft complete", "RU": "Черновик артбука TFR готов" } },
+    { "date": "2026 Q4", "label": { "EN": "East Sea Cycle, first 6 works", "RU": "East Sea Cycle, первые 6 работ" } },
+    { "date": "2027 Q1", "label": { "EN": "Studio rig acquisition", "RU": "Покупка студийного оборудования" } },
+    { "date": "2027 Q1", "label": { "EN": "Artbook print run", "RU": "Тираж артбука" } },
+    { "date": "2027 Q2", "label": { "EN": "Archive system live", "RU": "Запуск архива" } }
+  ]
+}

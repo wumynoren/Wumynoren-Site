@@ -1,0 +1,27 @@
+{
+  "_help": "Custom blocks. Each block needs: id (anchor + optional nav), type, and type-specific fields. Reference a block from site.json sections as { \"type\": \"block\", \"id\": \"<id>\" }. Types: text | images | cards | cta | html. See AI_GUIDE.md for schemas.",
+
+  "blocks": [
+    {
+      "id": "process-notes",
+      "type": "text",
+      "num": "06",
+      "title": { "EN": "FIELD NOTES", "RU": "ПОЛЕВЫЕ ЗАМЕТКИ" },
+      "cjk": "筆記",
+      "paragraphs": [
+        { "EN": "Example custom block. Delete it or edit content/blocks.json. Add it to the page by listing { \"type\": \"block\", \"id\": \"process-notes\" } in site.json → sections.",
+          "RU": "Пример кастомного блока. Удалите его или измените content/blocks.json. Чтобы показать на странице, добавьте { \"type\": \"block\", \"id\": \"process-notes\" } в site.json → sections." }
+      ]
+    },
+    {
+      "id": "prints",
+      "type": "cta",
+      "num": "07",
+      "title": { "EN": "PRINTS", "RU": "ПРИНТЫ" },
+      "cjk": "印刷",
+      "heading": { "EN": "A3 giclée prints, limited run", "RU": "Принты A3 giclée, ограниченный тираж" },
+      "text": { "EN": "Numbered, signed, shipped from the Russian Federation.", "RU": "Нумерованные, подписанные, отправка из России." },
+      "button": { "label": { "EN": "REQUEST PRICE LIST", "RU": "ЗАПРОСИТЬ ПРАЙС" }, "href": "#", "style": "ghost" }
+    }
+  ]
+}

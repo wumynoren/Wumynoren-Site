@@ -1,0 +1,19 @@
+{
+  "title": { "EN": "WORKS", "RU": "РАБОТЫ" },
+  "cjk": "畫廊",
+  "filters": ["ALL", "TFR", "TAIWAN", "CHINA", "VEHICLES", "CHARACTERS", "NIGHT", "STUDIES"],
+  "emptyText": { "EN": "NO WORKS IN THIS CATEGORY YET", "RU": "В ЭТОЙ КАТЕГОРИИ ПОКА ПУСТО" },
+
+  "_help": "layout: 12-column grid, 150px rows. col = 'start / end' (1..13), row = 'start / end'. Leave col/row out to auto-place. src empty = labeled placeholder.",
+
+  "items": [
+    { "id": "w01", "src": "assets/img/work-01.jpg", "label": "HERO_NIGHT_SORTIE", "tag": "NIGHT", "series": "Great Asian War / Night Sortie", "year": "2026", "medium": "DIGITAL", "dims": "2560×1453", "tools": "CLIP STUDIO / PHOTOSHOP", "cjk": "夜戰", "col": "1 / 9", "row": "1 / 3" },
+    { "id": "w02", "src": "assets/img/work-02.jpg", "label": "TFR_FACTION_POSTER", "tag": "TFR", "series": "The Fire Rises / Faction Studies", "year": "2025", "medium": "DIGITAL", "dims": "2560×1439", "tools": "CLIP STUDIO", "cjk": "烈火", "col": "9 / 13", "row": "1 / 4" },
+    { "id": "w03", "src": "assets/img/work-03.jpg", "label": "ROC_COASTAL_BATTERY", "tag": "TAIWAN", "series": "East Sea Cycle / Coastal", "year": "2026", "medium": "DIGITAL", "dims": "2560×1442", "tools": "CLIP STUDIO / PHOTOSHOP", "cjk": "海防", "col": "1 / 5", "row": "3 / 5" },
+    { "id": "w04", "src": "", "label": "PLA_AIRFRAME_STUDY", "tag": "CHINA", "series": "PLA Aerospace / Study", "year": "2025", "medium": "DIGITAL", "dims": "5000×3000", "tools": "CLIP STUDIO", "cjk": "空軍", "col": "5 / 9", "row": "3 / 4" },
+    { "id": "w05", "src": "", "label": "CHARACTER_KITBASH_01", "tag": "CHARACTERS", "series": "Unit Portraits / Series I", "year": "2026", "medium": "DIGITAL", "dims": "2800×4500", "tools": "CLIP STUDIO", "cjk": "人物", "col": "9 / 13", "row": "4 / 6" },
+    { "id": "w06", "src": "", "label": "VEHICLE_TANK_STUDY", "tag": "VEHICLES", "series": "Armour / Detailed Studies", "year": "2025", "medium": "DIGITAL", "dims": "5500×3000", "tools": "CLIP STUDIO", "cjk": "鋼甲", "col": "5 / 9", "row": "4 / 5" },
+    { "id": "w07", "src": "", "label": "TFR_SUPER_EVENT", "tag": "TFR", "series": "The Fire Rises / Super Events", "year": "2026", "medium": "DIGITAL", "dims": "3600×3600", "tools": "CLIP STUDIO / PHOTOSHOP", "cjk": "崩潰", "col": "1 / 5", "row": "5 / 6" },
+    { "id": "w08", "src": "", "label": "ROC_NAVY_NIGHT_STUDY", "tag": "STUDIES", "series": "East Sea Cycle / Naval Ops", "year": "2026", "medium": "DIGITAL", "dims": "3000×4800", "tools": "CLIP STUDIO", "cjk": "海軍", "col": "5 / 9", "row": "5 / 6" }
+  ]
+}

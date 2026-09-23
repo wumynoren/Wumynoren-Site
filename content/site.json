@@ -1,0 +1,67 @@
+{
+  "callsign": "VECTOR-7",
+  "unitCode": "TF-07 / 東方",
+  "year": 2026,
+  "defaultLang": "EN",
+  "scanlines": true,
+  "commissionStatus": "open",
+
+  "nav": [
+    { "id": "about",       "label": { "EN": "ABOUT",       "RU": "О СЕБЕ" } },
+    { "id": "gallery",     "label": { "EN": "GALLERY",     "RU": "ГАЛЕРЕЯ" } },
+    { "id": "commissions", "label": { "EN": "COMMISSIONS", "RU": "ЗАКАЗЫ" } },
+    { "id": "operations",  "label": { "EN": "OPERATIONS",  "RU": "ОПЕРАЦИИ" } },
+    { "id": "support",     "label": { "EN": "SUPPORT",     "RU": "ПОДДЕРЖКА" } }
+  ],
+
+  "statusLabels": {
+    "open":     { "EN": "OPEN COMMISSIONS", "RU": "ЗАКАЗЫ ОТКРЫТЫ" },
+    "waitlist": { "EN": "WAITLIST",         "RU": "ЛИСТ ОЖИДАНИЯ" },
+    "closed":   { "EN": "CLOSED",           "RU": "ЗАКРЫТО" }
+  },
+
+  "sections": [
+    { "type": "hero" },
+    { "type": "gallery" },
+    { "type": "commissions" },
+    { "type": "operations" },
+    { "type": "support" }
+  ],
+
+  "hero": {
+    "role": { "EN": "MILITARY ANIME // TFR // EAST ASIAN ORIENTALISM", "RU": "ВОЕННОЕ АНИМЕ // TFR // ВОСТОЧНОАЗИАТСКИЙ ОРИЕНТАЛИЗМ" },
+    "paragraphs": [
+      { "EN": "I draw the hour after the fire rises: wet asphalt, squadron lights, and uniforms that still remember their country.",
+        "RU": "Я рисую час после того, как поднимается огонь: мокрый асфальт, огни эскадрильи и униформу, которая ещё помнит свою страну." },
+      { "EN": "Based in the Russian Federation. My work sits at the intersection of military anime, the near-future collapse of The Fire Rises, and a long study of Taiwanese and Chinese visual culture: uniforms, cities, late-imperial, republican and contemporary military iconography.",
+        "RU": "Живу в Российской Федерации. Работа лежит на пересечении военного аниме, коллапса ближайшего будущего из The Fire Rises и долгого изучения визуальной культуры Тайваня и Китая: униформа, города, позднеимперская, республиканская и современная военная иконография." },
+      { "EN": "TFR defines the atmosphere I return to. Grim, stylish, purple-lit. The ROC sun and the PLA star as graphic motifs, not slogans.",
+        "RU": "TFR задаёт атмосферу, к которой я возвращаюсь. Мрачно, стильно, в фиолетовом свете. Солнце РК и звезда НОАК как графические мотивы, не лозунги." }
+    ],
+    "tags": ["TFR", "ROC", "PLA", "HOI4", "ANIME", "NIGHT OPS", "VEHICLES"],
+    "buttons": [
+      { "label": { "EN": "VIEW GALLERY", "RU": "ГАЛЕРЕЯ" }, "href": "#gallery", "style": "outline" },
+      { "label": { "EN": "COMMISSIONS", "RU": "ЗАКАЗЫ" },  "href": "#commissions", "style": "solid" }
+    ],
+    "art": [
+      { "src": "assets/img/work-01.jpg", "alt": "Hero art 01", "label": "HERO ART 01", "cjk": "夜戰" },
+      { "src": "assets/img/work-02.jpg", "alt": "Hero art 02", "label": "HERO ART 02", "cjk": "烈火" },
+      { "src": "assets/img/work-03.jpg", "alt": "Hero art 03", "label": "HERO ART 03", "cjk": "海防" }
+    ],
+    "hud": {
+      "location": { "EN": "RUSSIAN FEDERATION", "RU": "РОССИЙСКАЯ ФЕДЕРАЦИЯ" },
+      "status":   { "EN": "ACCEPTING SELECT WORK", "RU": "ПРИНИМАЮ ИЗБРАННЫЕ ЗАКАЗЫ" }
+    }
+  },
+
+  "footer": {
+    "disclaimer": { "EN": "NOT AFFILIATED WITH PARADOX INTERACTIVE OR THE TFR TEAM", "RU": "НЕ АФФИЛИРОВАН С PARADOX INTERACTIVE И КОМАНДОЙ TFR" },
+    "links": [
+      { "label": "TELEGRAM",   "href": "#" },
+      { "label": "VK",         "href": "#" },
+      { "label": "X",          "href": "#" },
+      { "label": "PIXIV",      "href": "#" },
+      { "label": "ARTSTATION", "href": "#" }
+    ]
+  }
+}
