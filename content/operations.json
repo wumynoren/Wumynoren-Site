@@ -10,7 +10,7 @@
     { "code": "MAIN", "title": "MOVING TO VLADIVOSTOK", "sub": "Own Accomodation in Primorye", "status": "ACTIVE", "raised": 5421, "goal": 120000, "url": "#",
       "objective": { "EN": "Primary goal in my long-term investment. I'm planning to move in Primorye and start participating in different cons in Korea, Taiwan, Japan and other locations",
                      "RU": "Это главная цель моих долгосрочных инвестиций. Я планирую переехать в Приморье и начать посещать различные конвенты в Корее, на Тайване, в Японии и других местах." } },
-    { "code": "OP-02", "title": "TERMINAL DENIED SUPPORT", "sub": "Primorye map / Studio Budget", "status": "ACTIVE", "raised": 380, "goal": 1800, "url": "#",
+    { "code": "OP-02", "title": "TERMINAL DENIED LAUNCH", "sub": "Primorye map / Studio Budget", "status": "ACTIVE", "raised": 380, "goal": 1800, "url": "#",
       "objective": { "EN": "Twelve original works: Region map, Factions Lore, Vladivostok Zone, Character Development. The Delta at the edge of history.",
                      "RU": "Двенадцать оригинальных работ: Карта региона, Лор Фракций, Зона Владивостока, Проработка персонажей. Гавань на краю истории." } },
     { "code": "OP-03", "title": "STUDIO RIG", "sub": "tablet / PC / print calibration", "status": "ACTIVE", "raised": 820, "goal": 2500, "url": "#",
