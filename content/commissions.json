@@ -16,6 +16,19 @@
         "EN": "Traces or paint-overs of other artists. Third-party IP unless licensed by the client. No one else's OC without consent (can be discussed). Original work only. Check the blacklist below.",
         "RU": "Обводок и перекрасок чужих работ. Чужого копирайта, если нет лицензии заказчика. Чужие ОС без согласия автора не беру (обсуждаемо). Только оригинальные работы. Также смотрите чёрный список ниже."
       }
+	  "label": { "EN": "GREENLIST", "RU": "ЗЕЛЁНЫЙ СПИСОК" },
+      "text": {
+        "EN": "What I will draw without any question: Slight Gore, Historical kits (WW1/Interbellum/WW2/Cold War Era/Russo-Ukrainian War), Tactical units (Police, SpecOPS, Guards), The Fire Rises and other HOI4 universes, Modern Army kits",
+        "RU": "Что я точно нарисую: Лёгкое Гуро, Исторические Гиры (ПМВ/Интербеллум/ВМВ, Холодная Война, Спец. Военная Операция), Тактические Подразделения (полиция, спецназ, гвардия), Контент по вселенным The Fire Rises и другим модам для HOI4, а также Гиры Современной Армии."
+      }
+    },
+    {
+      "label": { "EN": "BLACKLIST", "RU": "ЧЁРНЫЙ СПИСОК" },
+      "text": {
+        "EN": "It can be discussed, but mostly I would refuse to draw: Heavy Gore, Ukrainian Far-Right units (non-negotiable), Nazi and Terrorist movements (excluding PF), Russophobic content, Anti-ROC content, 100% no LGBTQ/Furry."
+        "RU": "Вопрос обсуждаем, но в основном я отказываюсь рисовать: Тяжёлое Гуро, Украинские ультраправые формирования (точно нет), нацистские и террористические движения (за исключением Патриот Фронта), русофобию, тайванофобию, а также — категорически — ЛГБТК и фурри."
+      }
+	  
     }
   ],
 
