@@ -6,15 +6,15 @@
     {
       "label": { "EN": "SCOPE OF WORK", "RU": "ЧТО РИСУЮ" },
       "text": {
-        "EN": "Military and tacticool commissions. Character sheets, unit scenes, vehicle and aircraft studies, night ops, urban fights, and cover art. I care about kit, weather, and atmosphere more than a generic anime girl with an AR-15. Small details in your brief will show up in the final piece.",
+        "EN": "Military and tacticool commissions. Character sheets, unit scenes, vehicle and aircraft studies, night ops, urban fights, and cover art. I care about kit, weather, and atmosphere more than a generic anime girl with an AR-15. Small details from your brief will show up in the final piece.",
         "RU": "Принимаю заказы на арты в военной и тактикульной стилистике. Рисую карточки персонажей, сцены подразделений, технику и авиацию, ночные операции и городские бои. Для меня важнее достоверность снаряжения и атмосфера, а не шаблонный образ «тянки с пушкой», поэтому мелкие детали из брифа попадут в итоговую работу."
       }
     },
     {
       "label": { "EN": "NOT ACCEPTED", "RU": "НЕ БЕРУ" },
       "text": {
-        "EN": "No traces or paint-overs of other artists. No third-party IP unless you hold the license. No one else's OC without their consent (ask first). Original work only. Check the blacklist below.",
-        "RU": "Не беру обводки и перекраски чужих работ. Чужой копирайт — только если у заказчика есть лицензия. Чужие ОС без согласия автора не рисую (сначала спросите). Только оригинальные работы. Также смотрите чёрный список ниже."
+        "EN": "No traces or paint-overs of other artists. No third-party IP unless licensed by the client. No one else's OC without consent (can be discussed). Original military-anime work only. Check the blacklist below.",
+        "RU": "Без обводок и перекрасок чужих работ. Без чужого копирайта, если нет лицензии заказчика. Чужие ОС без согласия автора не беру (обсуждаемо). Только оригинальное военное аниме. Также смотрите чёрный список ниже."
       }
     }
   ],
@@ -37,10 +37,12 @@
       "rub": "4 500 ₽",
       "slots": 2,
       "max": 6,
-      "items": {
-        "EN": ["Waist-up character, 1 figure", "Flat colour or greyscale", "2 revision rounds", "High-res PNG"],
-        "RU": ["Персонаж по пояс, один персонаж", "Ч/Б или плоский цвет", "2 согласования", "Несжатый PNG"]
-      },
+      "items": [
+        "Waist-up character, 1 figure",
+        "Flat colour or greyscale",
+        "2 revision rounds",
+        "High-res PNG"
+      ],
       "requestUrl": "#"
     },
     {
@@ -49,10 +51,12 @@
       "rub": "10 000 ₽",
       "slots": 1,
       "max": 3,
-      "items": {
-        "EN": ["Full body, 1–2 figures + background", "Full render, shading, atmosphere", "3 revision rounds", "PSD + high-res PNG"],
-        "RU": ["Полнорост, 1–2 персонажа + фон", "Полный рендер, светотень, окружение", "3 согласования", "PSD + оригинальный PNG"]
-      },
+      "items": [
+        "Full body, 1–2 figures + background",
+        "Full render, shading, atmosphere",
+        "3 revision rounds",
+        "PSD + high-res PNG"
+      ],
       "requestUrl": "#"
     },
     {
@@ -61,20 +65,22 @@
       "rub": "16 000 ₽+",
       "slots": 1,
       "max": 2,
-      "items": {
-        "EN": ["Full artwork with aircraft or vehicles", "Full environment and custom details", "4+ revisions + staged WIPs", "PSD + hi-res PNG + no watermark"],
-        "RU": ["Полноценка с техникой / полным фоном", "Всё окружение + кастомные детали", "4+ согласования + WIP", "PSD + оригинал + версия без вотермарки"]
-      },
+      "items": [
+        "Full artwork with aircraft or vehicles",
+        "Full environment and custom details",
+        "4+ revisions + staged WIPs",
+        "PSD + hi-res PNG + no watermark"
+      ],
       "requestUrl": "#"
     }
   ],
 
   "terms": [
-    { "k": "PAYMENT / ОПЛАТА",         "v": { "EN": "30% upfront / 70% on delivery", "RU": "30% аванс / 70% в конце" } },
-    { "k": "RIGHTS / ПРАВА",           "v": { "EN": "Personal use by default", "RU": "По умолчанию личное использование" } },
-    { "k": "COMMERCIAL / КОММЕРЦИЯ",   "v": { "EN": "+20% of base price", "RU": "+20% к базовой цене" } },
-    { "k": "RUSH FEE / СРОЧНО",        "v": { "EN": "+30%, queue jump", "RU": "+30%, вне очереди" } },
-    { "k": "REVISIONS / СОГЛАСОВАНИЕ", "v": { "EN": "Per tier; extra rounds billed", "RU": "По тарифу; доп. раунды платно" } },
-    { "k": "REFUNDS / ВОЗВРАТ",        "v": { "EN": "Pre-render stage only", "RU": "Только до этапа рендера" } }
+    { "k": "PAYMENT",    "v": { "EN": "30% upfront / 70% on delivery", "RU": "30% аванс / 70% в конце" } },
+    { "k": "RIGHTS",     "v": { "EN": "Personal use by default", "RU": "По умолчанию личное использование" } },
+    { "k": "COMMERCIAL", "v": { "EN": "+20% of base price", "RU": "+20% к базовой цене" } },
+    { "k": "RUSH FEE",   "v": { "EN": "+30%, queue jump", "RU": "+30%, вне очереди" } },
+    { "k": "REVISIONS",  "v": { "EN": "Per tier; extra rounds billed", "RU": "По тарифу; доп. раунды платно" } },
+    { "k": "REFUNDS",    "v": { "EN": "Pre-render stage only", "RU": "Только до этапа рендера" } }
   ]
 }
