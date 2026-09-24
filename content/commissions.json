@@ -4,42 +4,29 @@
 
   "brief": [
     {
-      "label": { "EN": "SCOPE OF WORK", "RU": "ЧТО РИСУЮ" },
+      "label": { "EN": "I DRAW", "RU": "Я РИСУЮ" },
       "text": {
         "EN": "Military and tacticool commissions. Character sheets, unit scenes, vehicle and aircraft studies, night ops, urban fights, and cover art. I care about kit, weather, and atmosphere more than a generic anime girl with an AR-15. Even the smallest details from your brief will show up in the final piece.",
         "RU": "Принимаю заказы на арты в военной и тактикульной стилистике. Рисую карточки персонажей, сцены подразделений, технику и авиацию, ночные операции и городские бои. Для меня важнее достоверность снаряжения и атмосфера, а не шаблонный образ «тянки с пушкой», поэтому даже мелкие детали из брифа попадут в итоговую работу."
       }
     },
     {
-      "label": { "EN": "NOT ACCEPTED", "RU": "НЕ БЕРУ" },
+      "label": { "EN": "I DO NOT ACCEPT", "RU": "Я НЕ БЕРУ" },
       "text": {
-        "EN": "Traces or paint-overs of other artists. No third-party IP unless licensed by the client. No one else's OC without consent (can be discussed). Original work only. Check the blacklist below.",
-        "RU": "Обводок и перекрасок чужих работ. Без чужого копирайта, если нет лицензии заказчика. Чужие ОС без согласия автора не беру (обсуждаемо). Только оригинальные работы. Также смотрите чёрный список ниже."
+        "EN": "Traces or paint-overs of other artists. Third-party IP unless licensed by the client. No one else's OC without consent (can be discussed). Original work only. Check the blacklist below.",
+        "RU": "Обводок и перекрасок чужих работ. Чужого копирайта, если нет лицензии заказчика. Чужие ОС без согласия автора не беру (обсуждаемо). Только оригинальные работы. Также смотрите чёрный список ниже."
       }
     }
   ],
+
   "process": [
-  {
-    "step": { "EN": "INQUIRY", "RU": "ЗАЯВКА" },
-    "text": { "EN": "Form or DM, reference sheet preferred", "RU": "Форма или личное сообщение, лучше с референсами" }
-  },
-  {
-    "step": { "EN": "SKETCH", "RU": "ЭСКИЗ" },
-    "text": { "EN": "Thumbnail approval before render", "RU": "Утверждение эскиза до рендера" }
-  },
-  {
-    "step": { "EN": "RENDER", "RU": "РЕНДЕР" },
-    "text": { "EN": "Full colour, staged WIPs on complex work", "RU": "Полный цвет, промежуточные WIP на сложных работах" }
-  },
-  {
-    "step": { "EN": "REVISION", "RU": "ПРАВКИ" },
-    "text": { "EN": "Within the agreed round count", "RU": "В рамках согласованного числа раундов" }
-  },
-  {
-    "step": { "EN": "DELIVERY", "RU": "СДАЧА" },
-    "text": { "EN": "High-res files, invoice settled", "RU": "Файлы в высоком разрешении, оплата закрыта" }
-  }
+    { "step": "INQUIRY", "text": { "EN": "Form or DM, reference sheet preferred", "RU": " · ЗАЯВКА : Форма или личное сообщение, лучше с референсами" } },
+    { "step": "SKETCH",   "text": { "EN": "Thumbnail approval before render", "RU": " · ЭСКИЗ : Утверждение эскиза до рендера" } },
+    { "step": "RENDER",  "text": { "EN": "Full colour, staged WIPs on complex work", "RU": " · РЕНДЕР : Полный цвет, промежуточные WIP на сложных работах" } },
+    { "step": "REVISION","text": { "EN": "Within the agreed round count", "RU": " · ПРАВКИ : В рамках согласованного числа раундов" } },
+    { "step": "DELIVERY", "text": { "EN": "High-res files, invoice settled", "RU": " · СДАЧА : Файлы в высоком разрешении, оплата закрыта" } }
   ],
+
   "turnaround": ["SKETCH · 1–2 W", "FULL ARTWORK · 3–5 W", "COMPLEX ARTWORK · 6–10 W"],
   "languages": ["EN / RU", "ZH · notes only", "備註"],
 
