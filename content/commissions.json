@@ -4,8 +4,8 @@
 
   "brief": [
     { "label": { "EN": "SCOPE OF WORK", "RU": "ЧТО РИСУЮ" },
-      "text": { "EN": "Military and Tacticool Commissions. Character sheets, unit scenes, vehicle and aircraft studies, night operations, urban fights, and cover art for all the fandoms. I care about kit, weather, and atmosphere much more than generic “anime gal with AR-15 and super uber cool 9 class armor plate carrier” so your desires in small details will appear in final artwork. I appreciate your taste and desires about the concept.",
-                "RU": "Принимаю заказы на арты в военной и тактикульной стилистике. Рисую карточки персонажей, сцены единиц, технику и авиацию, а также сцены ночных операций и городских боев — для любых фандомов от Таркова до Ваших. Для меня важнее всего достоверность снаряжения атмосфера, а не просто шаблонный образ «аниме-девушки с пушкой», поэтому все ваши пожелания касательно мелких деталей обязательно будут учтены в итоговой работе." } },
+      "text": { "EN": "Military and Tacticool Commissions. Character sheets, unit scenes, vehicle and aircraft studies, night-ops, urban fights, and cover art for all the fandoms. I care about kit, weather, and atmosphere much more than generic “anime gal with AR-15 and super uber cool 9 class armor plate carrier” so your desires in small details will appear in final artwork. I appreciate your taste and desires about the concept.",
+                "RU": "Принимаю заказы на арты в военной и тактикульной стилистике. Рисую карточки персонажей, сцены единиц, технику и авиацию, а также сцены ночных операций и городских боев — для любых фандомов от Таркова до Ваших. Для меня важнее всего достоверность снаряжения атмосфера, а не просто шаблонный образ «тянки с пушкой», поэтому все ваши пожелания касательно мелких деталей обязательно будут учтены в итоговой работе." } },
     { "label": { "EN": "NOT ACCEPTED", "RU": "НЕ БЕРУ" },
       "text": { "EN": "Traces or paint-overs of other artists. Third-party IP unless licensed by the client. No other person OC in without consent (can be discussed). Original artwork only. Also check my blacklist below.",
                 "RU": "Обводок и перекрасок чужих работ. Чужие копирайты, если это коммерческий арт. ОСки других авторов без их личного согласия (обсуждаемо) . Только оригинальные полноценки. Также смотрите мой ЧС снизу." } }
@@ -24,16 +24,16 @@
 
   "tiers": [
     { "title": "SKETCH / HALF-BODY LINE", "usd": "$50", "rub": "4.500 ₽", "slots": 2, "max": 6,
-      "items": { "EN": ["Waist-up character, 1 figure", "Flat colour or greyscale", "2 revision rounds", "High-res PNG"] },
-	  "items": { "RU": ["Персонаж по пояс, только один", "Ч/Б покрас или плоский цвет", "2 согласования", "Несжатый PNG"] },
+      "items": { "EN": {"Waist-up character, 1 figure", "Flat colour or greyscale", "2 revision rounds", "High-res PNG"} },
+	  "items": { "RU": {"Персонаж по пояс, только один", "Ч/Б покрас или плоский цвет", "2 согласования", "Несжатый PNG"} },
       "requestUrl": "#" },
     { "title": "CHARACTER / FULL SCENE", "usd": "$120", "rub": "10 000 ₽", "slots": 1, "max": 3,
-      "items": { "EN": ["Full body, 1–2 figures + background", "Full render, shading, surrounding", "3 revision rounds", "PSD + high-res PNG"] },
-	  "items": { "RU": ["Полнорост, 2 персонажа + фон", "Полный рендер, светотень, окружение", "3 согласования арта", "PSD + Оригинальный PNG"] },
+      "items": { "EN": {"Full body, 1–2 figures + background", "Full render, shading, surrounding", "3 revision rounds", "PSD + high-res PNG"} },
+	  "items": { "RU": {"Полнорост, 2 персонажа + фон", "Полный рендер, светотень, окружение", "3 согласования арта", "PSD + Оригинальный PNG"} },
       "requestUrl": "#" },
     { "title": "COMPLEX / VEHICLE + ENVIRONMENT", "usd": "$200+", "rub": "16.000 ₽+", "slots": 1, "max": 2,
-      "items": { "EN": ["Full Artwork with aircraft or vehicles", "Full environment and custom details", "4+ revisions + staged WIPs", "PSD + hi-res PNG + No-Watermark"] },
-	  "items": { "RU": ["Полноценка с бронетехникой/полным фоном", "Всё окружение + кастомные детали", "4+ согласования + арт в процессе", "PSD + Оригинал + Версия без вотерки"] },
+      "items": { "EN": {"Full Artwork with aircraft or vehicles", "Full environment and custom details", "4+ revisions + staged WIPs", "PSD + hi-res PNG + No-Watermark"} },
+	  "items": { "RU": {"Полноценка с бронетехникой/полным фоном", "Всё окружение + кастомные детали", "4+ согласования + арт в процессе", "PSD + Оригинал + Версия без вотерки"} },
       "requestUrl": "#" }
   ],
 
