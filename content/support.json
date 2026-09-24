@@ -1,15 +1,15 @@
 {
   "title": { "EN": "SUPPORT", "RU": "ПОДДЕРЖКА" },
   "cjk": "支援",
-  "intro": { "EN": "ZOV Support independent military-anime production, not a political fund. Time, reference research, print tests, and series continuity all run on something.",
-             "RU": "Поддержка независимого производства военного аниме, а не политический фонд. Время, изучение референсов, пробная печать и непрерывность серий на чём-то держатся." },
+  "intro": { "EN": "If you like the art, streams, or the project I’m building — lore, merch, and future collabs — you can help keep it going. Every bit goes toward time, tools, and making more of it. Thank you.",
+             "RU": "Если вам нравятся мои работы, стримы или сам проект — включая лор, мерч и будущие коллаборации, — вы можете поддержать его развитие. Любой вклад помогает уделять проекту больше времени, приобретать инструменты и создавать новый контент. Спасибо!" },
 
   "whyLabel": { "EN": "WHY SUPPORT EXISTS", "RU": "ЗАЧЕМ ЭТО НУЖНО" },
   "why": [
     { "EN": "Each large piece takes 30 to 80 hours. Reference research on uniform details, vehicle specs, and city nightscapes is unpaid but non-negotiable.",
       "RU": "Каждая большая работа занимает 30–80 часов. Изучение референсов по униформе, технике и ночным городам не оплачивается, но обязательно." },
-    { "EN": "Print tests, colour calibration, and proofing for the artbook carry real costs. Recurring and one-time support keeps a series moving without diluting the work.",
-      "RU": "Пробная печать, калибровка цвета и цветопробы для артбука стоят реальных денег. Регулярная и разовая поддержка держит серии в движении без компромиссов." }
+    { "EN": "Artwork tests, tablet and color calibration, and proofing for the customer carry real costs. Recurring and one-time support keeps a series moving without diluting the work.",
+      "RU": "Пробные арты, калибровка цвета и планшета, цветопробы для заказчика стоят моего временени. Регулярная и разовая поддержка держит серии в движении без компромиссов." }
   ],
 
   "featuredLabel": { "EN": "PRIORITY", "RU": "ПРИОРИТЕТ" },
@@ -22,9 +22,9 @@
     { "abbr": "BS",   "name": "Boosty",               "note": "Primary RU / CIS subscription platform",      "url": "https://boosty.to/" },
     { "abbr": "DA",   "name": "DonationAlerts",       "note": "One-time and recurring, RU payments",         "url": "https://www.donationalerts.com/" },
     { "abbr": "KF",   "name": "Ko-fi",                "note": "International one-time support, USD / EUR",   "url": "https://ko-fi.com/" },
-    { "abbr": "BTC",  "name": "Bitcoin",              "note": "bc1q···· placeholder address ····",           "copy": "bc1q-placeholder-address" },
-    { "abbr": "ETH",  "name": "Ethereum",             "note": "0x···· placeholder address ····",             "copy": "0x-placeholder-address" },
-    { "abbr": "USDT", "name": "USDT · TRC20",         "note": "T···· placeholder address ····",              "copy": "T-placeholder-address" },
+    { "abbr": "BTC",  "name": "Bitcoin",              "note": "bc1p···· placeholder address ····",           "copy": "bc1p2tmqrn9wrt8sgvvh734l57ge3ces4j943h9744g89zglpts75vfqpa9keq" },
+    { "abbr": "ETH",  "name": "Solana",             "note": "2qX···· placeholder address ····",             "copy": "2qX4WgFgfNSmqJyav25YUeHGonRiVjPQpN69we3LsMW2" },
+    { "abbr": "USDT", "name": "Base",         "note": "0x···· placeholder address ····",              "copy": "0x5ab6b4bf66563c04c8abc0215be958c60e7ba878" },
     { "abbr": "CC",   "name": "Card / International", "note": "Payment link placeholder",                    "url": "#" }
   ]
 }
