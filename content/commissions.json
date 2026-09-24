@@ -20,11 +20,11 @@
   ],
 
   "process": [
-    { "step": "INQUIRY", "text": { "EN": "Form or DM, reference sheet preferred", "RU": " · ЗАЯВКА : Форма или личное сообщение, лучше с референсами" } },
-    { "step": "SKETCH",   "text": { "EN": "Thumbnail approval before render", "RU": " · ЭСКИЗ : Утверждение эскиза до рендера" } },
-    { "step": "RENDER",  "text": { "EN": "Full colour, staged WIPs on complex work", "RU": " · РЕНДЕР : Полный цвет, промежуточные WIP на сложных работах" } },
-    { "step": "REVISION","text": { "EN": "Within the agreed round count", "RU": " · ПРАВКИ : В рамках согласованного числа раундов" } },
-    { "step": "DELIVERY", "text": { "EN": "High-res files, invoice settled", "RU": " · СДАЧА : Файлы в высоком разрешении, оплата закрыта" } }
+    { "step": "INQUIRY", "text": { "EN": "Form or DM, reference sheet preferred", "RU": "заявка : Форма или личное сообщение, лучше с референсами" } },
+    { "step": "SKETCH",   "text": { "EN": "Thumbnail approval before render", "RU": "эскиз : Утверждение эскиза до рендера" } },
+    { "step": "RENDER",  "text": { "EN": "Full colour, staged WIPs on complex work", "RU": "рендер : Полный цвет, промежуточные WIP на сложных работах" } },
+    { "step": "REVISION","text": { "EN": "Within the agreed round count", "RU": "правки : В рамках согласованного числа раундов" } },
+    { "step": "DELIVERY", "text": { "EN": "High-res files, invoice settled", "RU": "сдача : Файлы в высоком разрешении, оплата закрыта" } }
   ],
 
   "turnaround": ["SKETCH · 1–2 W", "FULL ARTWORK · 3–5 W", "COMPLEX ARTWORK · 6–10 W"],
