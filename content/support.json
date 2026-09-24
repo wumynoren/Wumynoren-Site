@@ -23,8 +23,8 @@
     { "abbr": "DA",   "name": "DonationAlerts",       "note": "One-time and recurring, RU payments",         "url": "https://www.donationalerts.com/" },
     { "abbr": "KF",   "name": "Ko-fi",                "note": "International one-time support, USD / EUR",   "url": "https://ko-fi.com/" },
     { "abbr": "BTC",  "name": "Bitcoin",              "note": "bc1p···· placeholder address ····",           "copy": "bc1p2tmqrn9wrt8sgvvh734l57ge3ces4j943h9744g89zglpts75vfqpa9keq" },
-    { "abbr": "ETH",  "name": "Solana",             "note": "2qX···· placeholder address ····",             "copy": "2qX4WgFgfNSmqJyav25YUeHGonRiVjPQpN69we3LsMW2" },
-    { "abbr": "USDT", "name": "Base",         "note": "0x···· placeholder address ····",              "copy": "0x5ab6b4bf66563c04c8abc0215be958c60e7ba878" },
+    { "abbr": "SOL",  "name": "Solana",             "note": "2qX···· placeholder address ····",             "copy": "2qX4WgFgfNSmqJyav25YUeHGonRiVjPQpN69we3LsMW2" },
+    { "abbr": "BASE", "name": "Base",         "note": "0x···· placeholder address ····",              "copy": "0x5ab6b4bf66563c04c8abc0215be958c60e7ba878" },
     { "abbr": "CC",   "name": "Card / International", "note": "Payment link placeholder",                    "url": "#" }
   ]
 }
