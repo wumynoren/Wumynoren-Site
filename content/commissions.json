@@ -6,67 +6,60 @@
     {
       "label": { "EN": "SCOPE OF WORK", "RU": "ЧТО РИСУЮ" },
       "text": {
-        "EN": "Military and tacticool commissions. Character sheets, unit scenes, vehicle and aircraft studies, night ops, urban fights, and cover art. I care about kit, weather, and atmosphere more than a generic anime girl with an AR-15. Even smallest details from your brief will show up in the final piece.",
+        "EN": "Military and tacticool commissions. Character sheets, unit scenes, vehicle and aircraft studies, night ops, urban fights, and cover art. I care about kit, weather, and atmosphere more than a generic anime girl with an AR-15. Even the smallest details from your brief will show up in the final piece.",
         "RU": "Принимаю заказы на арты в военной и тактикульной стилистике. Рисую карточки персонажей, сцены подразделений, технику и авиацию, ночные операции и городские бои. Для меня важнее достоверность снаряжения и атмосфера, а не шаблонный образ «тянки с пушкой», поэтому даже мелкие детали из брифа попадут в итоговую работу."
       }
     },
     {
       "label": { "EN": "NOT ACCEPTED", "RU": "НЕ БЕРУ" },
       "text": {
-        "EN": "Traces or paint-overs of other artists. No third-party IP unless licensed by the client. No one else's OC without consent (can be discussed). Original and authentic work only. Check the blacklist below.",
-        "RU": "Обводок и перекрасок чужих работ. Без чужого копирайта, если нет лицензии заказчика. Чужие ОС без согласия автора не беру (обсуждаемо). Только аутентичные и оригинальные работы. Также смотрите чёрный список ниже."
+        "EN": "Traces or paint-overs of other artists. No third-party IP unless licensed by the client. No one else's OC without consent (can be discussed). Original work only. Check the blacklist below.",
+        "RU": "Обводок и перекрасок чужих работ. Без чужого копирайта, если нет лицензии заказчика. Чужие ОС без согласия автора не беру (обсуждаемо). Только оригинальные работы. Также смотрите чёрный список ниже."
       }
     }
   ],
 
   "process": [
-  { "step": "INQUIRY · ЗАЯВКА",   "text": { "EN": "Form or DM, reference sheet preferred", "RU": "Форма или личное сообщение, лучше с референсами" } },
-  { "step": "SKETCH  ·  СКЕТЧ",     "text": { "EN": "Thumbnail approval before render", "RU": "Утверждение эскиза до рендера" } },
-  { "step": "RENDER  · РЕНДЕР", "text": { "EN": "Full colour, staged WIPs on complex work", "RU": "Полный цвет, промежуточные WIP на сложных работах" } },
-  { "step": "REVISION· ПРАВКИ", "text": { "EN": "Within the agreed round count", "RU": "В рамках согласованного числа раундов" } },
-  { "step": "DELIVERY· СДАЧА",   "text": { "EN": "High-res files, invoice settled", "RU": "Файлы в высоком разрешении, оплата закрыта" } }
+    { "step": "INQUIRY · ЗАЯВКА", "text": { "EN": "Form or DM, reference sheet preferred", "RU": "Форма или личное сообщение, лучше с референсами" } },
+    { "step": "SKETCH · ЭСКИЗ",   "text": { "EN": "Thumbnail approval before render", "RU": "Утверждение эскиза до рендера" } },
+    { "step": "RENDER · РЕНДЕР",  "text": { "EN": "Full colour, staged WIPs on complex work", "RU": "Полный цвет, промежуточные WIP на сложных работах" } },
+    { "step": "REVISION · ПРАВКИ","text": { "EN": "Within the agreed round count", "RU": "В рамках согласованного числа раундов" } },
+    { "step": "DELIVERY · СДАЧА", "text": { "EN": "High-res files, invoice settled", "RU": "Файлы в высоком разрешении, оплата закрыта" } }
   ],
+
   "turnaround": ["SKETCH · 1–2 W", "FULL ARTWORK · 3–5 W", "COMPLEX ARTWORK · 6–10 W"],
   "languages": ["EN / RU", "ZH · notes only", "備註"],
 
   "tiers": [
     {
-      "title": { "EN": "SKETCH / HALF-BODY LINE", "RU": "ЭСКИЗ / ПОЯСНОЙ ЛАЙН" },
+      "title": "SKETCH / HALF-BODY LINE",
       "usd": "$50",
       "rub": "4 500 ₽",
       "slots": 2,
       "max": 6,
-      "items": {
-		"EN": ["Waist-up character, 1 figure", "Flat colour or greyscale", "2 revision rounds", "High-res PNG"],
-		"RU": ["Персонаж по пояс, один персонаж", "Ч/Б или плоский цвет", "2 согласования", "Несжатый PNG"]
-    },
-    "requestUrl": "#"
+      "items": ["Waist-up character, 1 figure", "Flat colour or greyscale", "2 revision rounds", "High-res PNG"],
+      "requestUrl": "#"
     },
     {
-      "title": { "EN": "CHARACTER / FULL SCENE", "RU": "ПЕРСОНАЖ / ПОЛНАЯ СЦЕНА" },
+      "title": "CHARACTER / FULL SCENE",
       "usd": "$120",
       "rub": "10 000 ₽",
       "slots": 1,
       "max": 3,
-      "items": {
-		"EN": ["Full body, 1–2 figures + background", "Full render, shading, atmosphere", "3 revision rounds", "PSD + high-res PNG"],
-		"RU": ["Полнорост, 1–2 персонажа + фон", "Полный рендер, светотень, окружение", "3 согласования", "PSD + оригинальный PNG"]
-    },
-    "requestUrl": "#"
+      "items": ["Full body, 1–2 figures + background", "Full render, shading, atmosphere", "3 revision rounds", "PSD + high-res PNG"],
+      "requestUrl": "#"
     },
     {
-      "title": { "EN": "COMPLEX / VEHICLE + ENVIRONMENT", "RU": "СЛОЖНЫЙ / ТЕХНИКА + ОКРУЖЕНИЕ" },
+      "title": "COMPLEX / VEHICLE + ENVIRONMENT",
       "usd": "$200+",
       "rub": "16 000 ₽+",
       "slots": 1,
       "max": 2,
-      "items": {
-		"EN": ["Full artwork with aircraft or vehicles", "Full environment and custom details", "4+ revisions + staged WIPs", "PSD + hi-res PNG + no watermark"],
-		"RU": ["Полноценка с техникой / полным фоном", "Всё окружение + кастомные детали", "4+ согласования + WIP", "PSD + оригинал + версия без вотермарки"]
-     },
-     "requestUrl": "#"
+      "items": ["Full artwork with aircraft or vehicles", "Full environment and custom details", "4+ revisions + staged WIPs", "PSD + hi-res PNG + no watermark"],
+      "requestUrl": "#"
     }
   ],
+
   "terms": [
     { "k": "PAYMENT",    "v": { "EN": "30% upfront / 70% on delivery", "RU": "30% аванс / 70% в конце" } },
     { "k": "RIGHTS",     "v": { "EN": "Personal use by default", "RU": "По умолчанию личное использование" } },
