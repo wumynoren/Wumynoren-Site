@@ -1,5 +1,5 @@
 {
-  "callsign": "VECTOR-7",
+  "callsign": "WUMYNOREN 2027",
   "unitCode": "TF-07 / 東方",
   "year": 2026,
   "defaultLang": "EN",
@@ -29,16 +29,16 @@
   ],
 
   "hero": {
-    "role": { "EN": "MILITARY ANIME // TFR // EAST ASIAN ORIENTALISM", "RU": "ВОЕННОЕ АНИМЕ // TFR // ВОСТОЧНОАЗИАТСКИЙ ОРИЕНТАЛИЗМ" },
+    "role": { "EN": "SELF-TAUGHT ARTIST DRAWING TACTICOOL GIRLS SINCE 2024", "RU": "ХУДОЖНИК САМОУЧКА РИСУЮЩИХ ТАКТИКУЛЬНЫХ ТЯНОК С 2024-ГО." },
     "paragraphs": [
-      { "EN": "I draw the hour after the fire rises: wet asphalt, squadron lights, and uniforms that still remember their country.",
-        "RU": "Я рисую час после того, как поднимается огонь: мокрый асфальт, огни эскадрильи и униформу, которая ещё помнит свою страну." },
-      { "EN": "Based in the Russian Federation. My work sits at the intersection of military anime, the near-future collapse of The Fire Rises, and a long study of Taiwanese and Chinese visual culture: uniforms, cities, late-imperial, republican and contemporary military iconography.",
-        "RU": "Живу в Российской Федерации. Работа лежит на пересечении военного аниме, коллапса ближайшего будущего из The Fire Rises и долгого изучения визуальной культуры Тайваня и Китая: униформа, города, позднеимперская, республиканская и современная военная иконография." },
-      { "EN": "TFR defines the atmosphere I return to. Grim, stylish, purple-lit. The ROC sun and the PLA star as graphic motifs, not slogans.",
-        "RU": "TFR задаёт атмосферу, к которой я возвращаюсь. Мрачно, стильно, в фиолетовом свете. Солнце РК и звезда НОАК как графические мотивы, не лозунги." }
+      { "EN": "I draw and stream CS2, HOI4, Tarkov, War Thunder and more (since 16). Since 2024 I’ve been active in Tarkov, Blue Archive, and other FPS/gacha fandoms, and I’m building my own lore/merch project around those communities. Before drawing I was a self-taught student of Chinese language, history, and culture (1910s–1990s). History and strategy circles are still home for me."
+        "RU": "Я занимаюсь рисованием и провожу стримы по CS2, HOI4, Tarkov, War Thunder и другим играм (стримлю с 16 лет). С 2024 года активно участвую в жизни фэндомов Tarkov, Blue Archive и других проектов в жанрах FPS и гача, а также развиваю собственный проект, объединяющий лор и мерч, вокруг этих сообществ. До того как заняться рисованием, я самостоятельно изучал китайский язык, историю и культуру (период 1910–1990-х годов). Сообщества любителей истории и стратегий по-прежнему остаются для меня родной средой." },
+      { "EN": "In real life I’m a Rosatom trainee and aspiring nuclear engineer — I want to work on reactors like the BN-1200M and VVER-1000. I travel often with my girlfriend and keep friends worldwide. On the war I stay moderate and mostly apolitical, while helping people affected on both sides. Collaborations and events around the globe are my goal I try to achieve.",
+        "RU": "В реальной жизни я стажер «Росатома» и будущий инженер-ядерщик: хочу работать с такими реакторами, как БН-1200М и ВВЭР-1000. Я часто путешествую со своей девушкой и поддерживаю дружеские связи по всему миру. В вопросе войны придерживаюсь умеренной и по большей части аполитичной позиции, при этом помогая пострадавшим с обеих сторон. Моя цель — налаживать сотрудничество и участвовать в мероприятиях по всему миру." },
+      { "EN": "I draw tacticool girls and other stuff just for fun. Making dynamic scenes of the duel or heavy skirmish is just a passion for me I enjoy turning into completed canvas. If you enjoy my works, I would love to get your subscribe and feedback!",
+        "RU": "Я рисую тактикульных тянкок просто для души. Создание динамичных сцен дуэлей или жарких перестрелок — моя страсть; мне нравится превращать такие замыслы в законченные работы. Если вам нравится мое творчество, буду рад подписке и обратной связи!" }
     ],
-    "tags": ["TFR", "ROC", "PLA", "HOI4", "ANIME", "NIGHT OPS", "VEHICLES"],
+    "tags": ["EFT PLAYER", "MILITARY LARPER", "TERMINAL DENIED CREATOR", "JUST A CHAD"],
     "buttons": [
       { "label": { "EN": "VIEW GALLERY", "RU": "ГАЛЕРЕЯ" }, "href": "#gallery", "style": "outline" },
       { "label": { "EN": "COMMISSIONS", "RU": "ЗАКАЗЫ" },  "href": "#commissions", "style": "solid" }
@@ -49,18 +49,18 @@
       { "src": "assets/img/work-03.jpg", "alt": "Hero art 03", "label": "HERO ART 03", "cjk": "海防" }
     ],
     "hud": {
-      "location": { "EN": "RUSSIAN FEDERATION", "RU": "РОССИЙСКАЯ ФЕДЕРАЦИЯ" },
-      "status":   { "EN": "ACCEPTING SELECT WORK", "RU": "ПРИНИМАЮ ИЗБРАННЫЕ ЗАКАЗЫ" }
+      "location": { "EN": "RUSSIAN FEDERATION, YEKATERINBURG", "RU": "РОССИЙСКАЯ ФЕДЕРАЦИЯ, ЕКБ" },
+      "status":   { "EN": "ACCEPTING NEW COMMS", "RU": "ПРИНИМАЮ НОВЫЕ ЗАКАЗЫ" }
     }
   },
 
   "footer": {
-    "disclaimer": { "EN": "NOT AFFILIATED WITH PARADOX INTERACTIVE OR THE TFR TEAM", "RU": "НЕ АФФИЛИРОВАН С PARADOX INTERACTIVE И КОМАНДОЙ TFR" },
+    "disclaimer": { "EN": "NOT AFFILIATED WITH ANY GAMEDEV OR ANYTHING ELSE", "RU": "НЕ АФФИЛИРОВАН С ГЕЙМДЕВОМ И ЧЕМ-ЛИБО ЕЩЕ" },
     "links": [
-      { "label": "TELEGRAM",   "href": "#" },
-      { "label": "VK",         "href": "#" },
-      { "label": "X",          "href": "#" },
-      { "label": "PIXIV",      "href": "#" },
+      { "label": "TELEGRAM",   "href": "https://t.me/wumynoren" },
+      { "label": "VK",         "href": "https://vk.ru/wumynoren" },
+      { "label": "X",          "href": "https://x.com/wumynoren" },
+      { "label": "PIXIV",      "href": "https://www.pixiv.net/en/users/101802139" },
       { "label": "ARTSTATION", "href": "#" }
     ]
   }
