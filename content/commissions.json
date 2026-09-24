@@ -18,15 +18,28 @@
       }
     }
   ],
-
   "process": [
-    { "step": "INQUIRY · ЗАЯВКА", "text": { "EN": "Form or DM, reference sheet preferred", "RU": "Форма или личное сообщение, лучше с референсами" } },
-    { "step": "SKETCH · ЭСКИЗ",   "text": { "EN": "Thumbnail approval before render", "RU": "Утверждение эскиза до рендера" } },
-    { "step": "RENDER · РЕНДЕР",  "text": { "EN": "Full colour, staged WIPs on complex work", "RU": "Полный цвет, промежуточные WIP на сложных работах" } },
-    { "step": "REVISION · ПРАВКИ","text": { "EN": "Within the agreed round count", "RU": "В рамках согласованного числа раундов" } },
-    { "step": "DELIVERY · СДАЧА", "text": { "EN": "High-res files, invoice settled", "RU": "Файлы в высоком разрешении, оплата закрыта" } }
+  {
+    "step": { "EN": "INQUIRY", "RU": "ЗАЯВКА" },
+    "text": { "EN": "Form or DM, reference sheet preferred", "RU": "Форма или личное сообщение, лучше с референсами" }
+  },
+  {
+    "step": { "EN": "SKETCH", "RU": "ЭСКИЗ" },
+    "text": { "EN": "Thumbnail approval before render", "RU": "Утверждение эскиза до рендера" }
+  },
+  {
+    "step": { "EN": "RENDER", "RU": "РЕНДЕР" },
+    "text": { "EN": "Full colour, staged WIPs on complex work", "RU": "Полный цвет, промежуточные WIP на сложных работах" }
+  },
+  {
+    "step": { "EN": "REVISION", "RU": "ПРАВКИ" },
+    "text": { "EN": "Within the agreed round count", "RU": "В рамках согласованного числа раундов" }
+  },
+  {
+    "step": { "EN": "DELIVERY", "RU": "СДАЧА" },
+    "text": { "EN": "High-res files, invoice settled", "RU": "Файлы в высоком разрешении, оплата закрыта" }
+  }
   ],
-
   "turnaround": ["SKETCH · 1–2 W", "FULL ARTWORK · 3–5 W", "COMPLEX ARTWORK · 6–10 W"],
   "languages": ["EN / RU", "ZH · notes only", "備註"],
 
