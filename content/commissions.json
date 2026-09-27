@@ -76,7 +76,7 @@
 
   "terms": [
     { "k": "PAYMENT",    "v": { "EN": "30% upfront / 70% on delivery", "RU": "30% аванс / 70% в конце" } },
-    { "k": "RIGHTS",     "v": { "EN": "Personal use by default", "RU": "По умолчанию личное использование" } },
+    { "k": "RIGHTS",     "v": { "EN": "Personal use by default", "RU": "Использовать не в коммерческих целях" } },
     { "k": "COMMERCIAL", "v": { "EN": "+20% of base price", "RU": "+20% к базовой цене" } },
     { "k": "RUSH FEE",   "v": { "EN": "+30%, queue jump", "RU": "+30%, вне очереди" } },
     { "k": "REVISIONS",  "v": { "EN": "Per tier; extra rounds billed", "RU": "По тарифу; доп. раунды платно" } },
